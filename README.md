@@ -21,6 +21,7 @@ final String[][] skills = {
                 System.out.println(skill);
             }
             System.out.println();
+        }
 ```
 ## You can find me in:
 - [LinkedIn](https://www.linkedin.com/in/saul-espinosa-r%C3%ADos/)
